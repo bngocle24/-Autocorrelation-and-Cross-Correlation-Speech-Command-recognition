@@ -1,1 +1,1 @@
-# -Autocorrelation-and-Cross-Correlation-Speech-Command-recognition
+# Autocorrelation-and-Cross-Correlation-Speech-Command-recognition
