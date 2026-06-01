@@ -14,7 +14,7 @@ The command corresponding to the highest correlation score is selected as the re
 
 ---
 
-## Add Shields.io Badges
+
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-green)
@@ -39,7 +39,7 @@ Example:
 
 ---
 
-## Project Screenshots
+
 
 ### System Architecture
 
@@ -104,49 +104,10 @@ Current implementation:
 
 Additional commands can be added by providing new reference audio files.
 
----
-
-## Installation Steps
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/project-name.git
-```
-
-### Navigate to Project Folder
-
-```bash
-cd project-name
-```
-
-### Install Required Packages
-
-```bash
-pip install numpy matplotlib librosa sounddevice wavio
-```
-
-### Run Program
-
-```bash
-python main.py
-```
 
 ---
 
-## Contribution Guidelines (Optional)
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push the branch
-5. Submit a Pull Request
-
----
-
-## Technologies Used (Optional)
+## Technologies Used 
 
 * Python
 * NumPy
@@ -154,18 +115,6 @@ Contributions are welcome.
 * Librosa
 * SoundDevice
 * Digital Signal Processing (DSP)
-
----
-
-## License Information (Optional)
-
-This project is developed for educational and research purposes.
-
----
-
-## Support Information (Optional)
-
-For questions or suggestions, please create an issue in the repository.
 
 ---
 
